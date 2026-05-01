@@ -33,34 +33,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🏟️ IndoorFinder  
-**Indoor Stadium Booking Platform** *(Laravel · PHP · MySQL)*  
-- 🔍 Search & book indoor stadiums with district-based filtering  
-- 🛠️ Admin panel for slot, booking & stadium management  
-- ⚡ Prevented double booking using database constraints  
-
----
-
-### 🍽️ Restaurant Web App  
-**Online Ordering & Table Reservation System** *(PHP · MySQL)*  
-- 🍔 Online food ordering + table booking system  
-- 📊 Admin dashboard for orders & menu control  
-
----
-
-### 📱 Quark App  
-**Nearby Product Discovery App** *(Flutter · Firebase)*  
-- 📍 Discover nearby products with real-time data  
-- 🔐 Firebase Authentication + Firestore integration  
-
----
-
-### 🛒 SportsHub  
-**Jersey E-commerce Platform** *(PHP · MySQL)*  
-- 🛍️ Full e-commerce functionality (CRUD, cart, orders)  
-- ⚙️ Admin panel for product & category management  
 
 ---
 
