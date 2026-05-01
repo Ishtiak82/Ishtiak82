@@ -1,36 +1,66 @@
-<h1 align="center">👋 Hi, I'm Ishtiak</h1>
+<h1 align="center">👋 Hi, I'm Ishtiak Hussain</h1>
 
-<h3 align="center">💻 CSE Student | 🔐 Future Cyber Security Specialist | 🇬🇧 MSc Aspirant</h3>
+<h3 align="center">💻 Full-Stack Developer | 📱 Flutter Developer | 🔐 Cyber Security Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final year CSE student  
-- 🔐 Interested in Cyber Security & Ethical Hacking  
-- 🌐 Web Developer (PHP, JS, Firebase)  
-- 📱 App Developer (Flutter)  
-- 🎯 Goal: Study MSc in UK & build strong tech career  
+- 🎓 Computer Science & Engineering Graduate (Leading University, Sylhet)  
+- 💻 Building scalable web & mobile applications  
+- ⚙️ Strong in PHP, Laravel, Firebase & MySQL  
+- 📱 Flutter developer focused on real-world apps  
+- 🧠 I enjoy solving problems, optimizing systems & learning new tech  
+- 🎯 Currently seeking a **junior/entry-level developer role**  
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/HTML-orange"/>
-  <img src="https://img.shields.io/badge/CSS-blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
-  <img src="https://img.shields.io/badge/PHP-purple"/>
-  <img src="https://img.shields.io/badge/MySQL-blue"/>
-  <img src="https://img.shields.io/badge/Firebase-orange"/>
-  <img src="https://img.shields.io/badge/Flutter-blue"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
 ---
 
-## 📂 Projects
-- 🔹 Quark App (Product Finder App)  
-- 🔹 Indoor Ground Booking Website  
-- 🔹 Calculator App (Android Studio)  
-- 🔹 AI Career Path Advisor (Web Project)  
+## 📂 Featured Projects
+
+### 🏟️ IndoorFinder  
+**Indoor Stadium Booking Platform** *(Laravel · PHP · MySQL)*  
+- 🔍 Search & book indoor stadiums with district-based filtering  
+- 🛠️ Admin panel for slot, booking & stadium management  
+- ⚡ Prevented double booking using database constraints  
+
+---
+
+### 🍽️ Restaurant Web App  
+**Online Ordering & Table Reservation System** *(PHP · MySQL)*  
+- 🍔 Online food ordering + table booking system  
+- 📊 Admin dashboard for orders & menu control  
+
+---
+
+### 📱 Quark App  
+**Nearby Product Discovery App** *(Flutter · Firebase)*  
+- 📍 Discover nearby products with real-time data  
+- 🔐 Firebase Authentication + Firestore integration  
+
+---
+
+### 🛒 SportsHub  
+**Jersey E-commerce Platform** *(PHP · MySQL)*  
+- 🛍️ Full e-commerce functionality (CRUD, cart, orders)  
+- ⚙️ Admin panel for product & category management  
 
 ---
 
@@ -42,31 +72,17 @@
 
 ---
 
-## ⚡ Fun Fact
-- 🎮 Esports Enthusiast (Bidrohi Esports 😈🔥)  
-- 💡 I build, break & learn  
+## ⚡ Beyond Coding
+- 🎮 Esports Enthusiast — Bidrohi Esports 😈🔥  
+- 💡 I build, break, fix & improve  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: ishtiakhussain200@gmail.com
-- 🔗 LinkedIn:  https://www.linkedin.com/in/ishtiak-hussain-dev
-- 🌍 Portfolio:  https://my-portfolio-one-eta-99.vercel.app 
+- 📧 Email: ishtiakhussain200@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ishtiak-hussain-dev  
+- 🌍 Portfolio: https://my-portfolio-one-eta-99.vercel.app  
 
 ---
 
-<h3 align="center">🔥 "We grind today for a better tomorrow." 🔥</h3>
-<!--
-**Ishtiak82/Ishtiak82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🔥 "We don't just write code — we solve problems." 🔥</h3>
