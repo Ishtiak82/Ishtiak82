@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ishtiak Hussain</h1>
 
-<h3 align="center">💻 Full-Stack Developer | 📱 Flutter Developer | 🔐 Cyber Security Enthusiast</h3>
+<h3 align="center">💻 Full-Stack App & Web Developer | 🔐 Cyber Security Enthusiast</h3>
 
 ---
 
@@ -9,8 +9,7 @@
 - 💻 Building scalable web & mobile applications  
 - ⚙️ Strong in PHP, Laravel, Firebase & MySQL  
 - 📱 Flutter developer focused on real-world apps  
-- 🧠 I enjoy solving problems, optimizing systems & learning new tech  
-- 🎯 Currently seeking a **junior/entry-level developer role**  
+- 🧠 I enjoy solving problems, optimizing systems & learning new tech   
 
 ---
 
