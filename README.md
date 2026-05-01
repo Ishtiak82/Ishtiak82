@@ -49,9 +49,9 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
-- 🔗 LinkedIn: your-link  
-- 🌍 Portfolio: coming soon  
+- 📧 Email: ishtiakhussain200@gmail.com
+- 🔗 LinkedIn:  https://www.linkedin.com/in/ishtiak-hussain-dev
+- 🌍 Portfolio:  https://my-portfolio-one-eta-99.vercel.app 
 
 ---
 
